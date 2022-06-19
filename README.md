@@ -45,3 +45,6 @@ Some links to crypto educational resources.
 - [Raydium](https://raydium.gitbook.io/raydium/) - Raydium is an automated market maker (AMM) built on the Solana blockchain which leverages the central order book of the Serum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity and new features for earning yield.
 
 - [Solend](https://docs.solend.fi/) - Solend is an algorithmic, decentralized protocol for lending and borrowing on Solana.
+
+- [TVL Rankings](https://app.1sol.io/dashboard) - TVL Rankings for Solana protocols.
+
