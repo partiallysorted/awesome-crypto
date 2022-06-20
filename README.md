@@ -4,15 +4,21 @@ Some links to crypto educational resources.
 
 <br>
 
-## CEXs
+## Avalanche
 
-- [FTX](https://docs.ftx.com/)
+- [Pangolin](https://docs.pangolin.exchange/) - Pangolin is the premier DEX of the Avalanche Network. It was launched in February 2021 as a proven concept for automated market makers (AMMs), native to the Avalanche network. It facilitated over $15 billion dollars in trading volume in its first year.
 
 <br>
 
 ## Binance Smart Chain
 
 - [ApolloX](https://apollox-finance.gitbook.io/apollox-finance/) | [docs](https://github.com/apollox-finance/apollox-finance-api-docs/blob/master/apollox-finance-api.md) - The world’s first CEX-DEX hybrid crypto exchange offering a wide selection of futures contracts with deep liquidity, stable system functionality and up to 100x leverage.
+
+<br>
+
+## CEXs
+
+- [FTX](https://docs.ftx.com/)
 
 <br>
 
